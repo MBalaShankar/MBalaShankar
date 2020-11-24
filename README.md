@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on .
 - 🤔 I’m looking for help with Data Visualisation, Data Science, Tabulae and Machine Learning.
 - 💬 Ask me about basics in Python
-- 📫 **How to reach me: can contact me on this *[mail] (https://mail.google.com/mail/u/0/#inbox?compose=balashankarnaidu01@gmail.com)***
+- 📫 **How to reach me: can contact me on this *[mail] (<a href="mailto:balashankarnaidu01@gmail.com">balashankarnaidu01@gmail.com</a>)***
 - 😄 Pronouns:You cal me Balu.
 - ⚡ Fun fact: I am a Cricketer and Chef.
 - :heart: I love Data Science.
