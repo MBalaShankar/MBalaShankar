@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-** I am Bala Shankar.
+#####I am Bala Shankar a Engineering Graduate in 2019 with the stream EEE.I have a one year experience in Industrial Automation. 
 
 >Here are some ideas to get you started:
 
